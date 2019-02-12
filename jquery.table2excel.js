@@ -5,6 +5,7 @@
  *
  *  Made by rainabba
  *  Under MIT License
+ * changed by lds
  */
 //table2excel.js
 ;(function ( $, window, document, undefined ) {
